@@ -6,14 +6,16 @@
     "amazon",
     "marketplace",
     "fba",
-    "sellers"
+    "sellers",
+		"finances"
   ],
   "homepage": "_",
   "version": "0.9.7",
   "author": "Eibbor Srenduas <robbies@eibbors.net> (http://eibbors.net)",
   "contributors": [
     "Adrian Sanchezdelc <adrian@ticadia.com>",
-    "David F. Sklar <dfsklar@gmail.com>"
+    "David F. Sklar <dfsklar@gmail.com>",
+		"Jazy Llerena <jazy555@gmail.com>"
   ],
   "main": "./lib/mws",
   "directories": {
@@ -21,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ticadia/mws-sdk.git"
+    "url": "https://github.com/jazy5552/mws-sdk.git"
   },
   "dependencies": {
     "xml2js": "^0.4.9"
