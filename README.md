@@ -1,7 +1,7 @@
 mws-sdk
 ======
 
-Forded from [ticadia/mws-sdk](https://github.com/ticadia/mws-sdk) who originally forked from [dfsklar/mws-js](https://github.com/dfsklar/mws-js). This is another continuation of mws-js with a more standarized node module setup. I added the Finances api calls and a report parser.
+Forked from [ticadia/mws-sdk](https://github.com/ticadia/mws-sdk) who originally forked from [dfsklar/mws-js](https://github.com/dfsklar/mws-js). This is another continuation of mws-js with a more standarized node module setup. I added the Finances api calls and a report parser.
 
 
 Examples
