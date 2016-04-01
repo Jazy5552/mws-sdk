@@ -13,7 +13,7 @@ describe('Reports', function() {
 	var reportObject;
   var client;
 
-  it('should set up the client', function() {
+  before('should set up the client', function() {
     client = new MWS.Client(env.accessKeyId, env.secretAccessKey, env.merchantId, {});
   });
   
